@@ -1,0 +1,8 @@
+[package]
+name = "death-star-rust-engine"
+version = "0.1.0"
+edition = "2021"
+authors = ["Lord Vader <vader@galactic-empire.org>"]
+description = "High-performance Rust-native Imperial Battle Station Engine"
+
+[dependencies]
